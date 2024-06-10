@@ -2,11 +2,10 @@
 
 
 
-
-[![MasterHead](https://www.google.com/imgres?q=banner%20animated%20coding%20gif&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FC5612AQErLJQyuT4h2Q%2Farticle-inline_image-shrink_1500_2232%2F0%2F1624597705774%3Fe%3D1722470400%26v%3Dbeta%26t%3DcSgyHOROb7kTzx72GKWRVzADb7eTPks6bC9ncvv955Y&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhow-companies-using-javascript-mani-bhargava-banka&docid=B3hv2P0-lN4AQM&tbnid=c99no20jd3YPKM&vet=12ahUKEwjm7oOp5dGGAxVpd2wGHdkUA4oQM3oECGoQAA..i&w=1920&h=590&hcb=2&ved=2ahUKEwjm7oOp5dGGAxVpd2wGHdkUA4oQM3oECGoQAA#imgrc=c99no20jd3YPKM&imgdii=M2smYocOcR_iGM)]
 <h1 align="center">Hi 👋, I'm Aawesh</h1>
 <h3 align="center">I'm an Indian student who just started computer science.</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb%2F68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&tbnid=zhjSEq0Xd_DH7M&vet=12ahUKEwi4hv-b4tGGAxWaRmcHHUCRDtkQM3oFCIIBEAA..i&w=680&h=428&hcb=2&ved=2ahUKEwi4hv-b4tGGAxWaRmcHHUCRDtkQM3oFCIIBEAA")
+
+ <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="side Image" align="right" width="350" height="auto" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaweshdas&label=Profile%20views&color=0e75b6&style=flat" alt="aaweshdas" /> </p>
 
