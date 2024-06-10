@@ -17,7 +17,17 @@
 
 - 📫 How to reach me **aaravdas208@gmail.com**
 
+
+
+
+
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="350" height="auto" />
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
